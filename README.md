@@ -14,3 +14,5 @@ nominate the design principles the design solution demonstrates.
 explain how  the design solution demonstrates the design principles.
 
 support your explanation with references to the content from the videos and/or other resources.
+
+Project Link one : https://coursera-assessments.s3.amazonaws.com/assessments/1660978278858/c5785f1c-f2b4-49f4-f7bd-57f7d7f67c45/Final_presentation.pdf
